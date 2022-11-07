@@ -1,2 +1,2 @@
-# TheDataGuys
-256 project
+# The Data Guys
+# CMPE 256 project
